@@ -1,11 +1,30 @@
 # Ichat-Desktop
 It is python version of Ichat Messenger App
 
-![1](https://github.com/prskid1000/IChat-Desktop/blob/master/Preview/1.png?raw=true)
+## 2021(Flutter)<br>
+![1](https://github.com/prskid1000/IChat-Desktop/blob/master/Preview21/1.png?raw=true)
 
-![2](https://github.com/prskid1000/IChat-Desktop/blob/master/Preview/2.png?raw=true)
+![2](https://github.com/prskid1000/IChat-Desktop/blob/master/Preview21/2.png?raw=true)
 
-![3](https://github.com/prskid1000/IChat-Desktop/blob/master/Preview/3.png?raw=true)
+![3](https://github.com/prskid1000/IChat-Desktop/blob/master/Preview21/3.png?raw=true)
+
+![1](https://github.com/prskid1000/IChat-Desktop/blob/master/Preview21/4.png?raw=true)
+
+![2](https://github.com/prskid1000/IChat-Desktop/blob/master/Preview21/5.png?raw=true)
+
+![3](https://github.com/prskid1000/IChat-Desktop/blob/master/Preview21/6.png?raw=true)
+
+![1](https://github.com/prskid1000/IChat-Desktop/blob/master/Preview21/7.png?raw=true)
+
+![1](https://github.com/prskid1000/IChat-Desktop/blob/master/Preview21/8.png?raw=true)
+
+
+## 2020(Kivy)<br>
+![1](https://github.com/prskid1000/IChat-Desktop/blob/master/Preview20/1.png?raw=true)
+
+![2](https://github.com/prskid1000/IChat-Desktop/blob/master/Preview20/2.png?raw=true)
+
+![3](https://github.com/prskid1000/IChat-Desktop/blob/master/Preview20/3.png?raw=true)
 
 ## You may need to pip-install few dependencies-<br>
 - kivy<br>
